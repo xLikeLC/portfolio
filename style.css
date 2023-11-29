@@ -443,7 +443,11 @@ button:hover {
   width: 50%;
 }
 
-.react::before {
+.figma::before {
+  width: 70%;
+}
+
+.photoshop::before {
   width: 50%;
 }
 
