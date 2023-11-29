@@ -451,6 +451,7 @@ button:hover {
   width: 50%;
 }
 
+
 /* projects section styling */
 #projects .title::after {
   content: "portfolio";
